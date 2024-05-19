@@ -1,0 +1,4 @@
+bedrijfsnaam: haukes
+aantal gebruikers: 15
+
+ copyright (c) 2019 free software foundation, inc.  everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
